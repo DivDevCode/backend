@@ -44,7 +44,7 @@ module.exports = [
     artist: "Fireboy DML",
     feat: "_ft_Asake",
     album: "Playboy",
-    genre: "Afrobeat",
+    genre: "AfroBeat",
     duration: 178,
     country: "Nigeria",
     artwork:
