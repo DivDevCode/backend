@@ -357,7 +357,7 @@ module.exports = [
     id: 102,
     title: "Laho",
     artist: "Shallipopi",
-    feat: "",
+    feat: false,
     album: "Laho",
     genre: "Afrobeat",
     duration: 136,
