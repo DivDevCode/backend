@@ -359,7 +359,7 @@ module.exports = [
     artist: "Shallipopi",
     feat: false,
     album: "Laho",
-    genre: "Afrobeat",
+    genre: "AfroBeat",
     duration: 136,
     artwork:
       "https://bxnennnmltdcjjorwljn.supabase.co/storage/v1/object/public/audiofiles/artwork/shalipopi/SpotiMate.io%20-%20Laho%20-%20Shallipopi.jpg",
@@ -374,7 +374,7 @@ module.exports = [
     artist: "Shallipopi",
     feat: "_Burna Boy",
     album: "Laho II",
-    genre: "Afrobeat",
+    genre: "AfroBeat",
     duration: 136,
     artwork:
       "https://bxnennnmltdcjjorwljn.supabase.co/storage/v1/object/public/audiofiles/artwork/shalipopi/SpotiMate.io%20-%20Laho%20II%20-%20Shallipopi.jpg",
